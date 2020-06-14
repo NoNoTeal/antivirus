@@ -1,0 +1,1 @@
+print('Delete it yourself you lazy fuck xd')
